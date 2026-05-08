@@ -2,7 +2,7 @@ Hi there 👋
 [Sonidos que llaman la atencion](https://www.youtube.com/watch?v=TAR94f-Knnk&pp=ygUZU29uaWRvIGRlIG1vbmVkYSBjYWxsZW5kbw%3D%3D)
 <https://www.youtube.com/watch?v=TAR94f-Knnk&pp=ygUZU29uaWRvIGRlIG1vbmVkYSBjYWxsZW5kbw%3D%3D>
 
-![]("C:\Users\Aby\Downloads\SO.png")
+![SISTEMAS OPERATIVOS](https://imecaf.com/blog/wp-content/uploads/Sistemas-Operativos-1.jpg)
 
 <!--
 **up250496grgg/up250496grgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
