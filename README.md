@@ -1,4 +1,8 @@
 Hi there 👋
+[Sonidos que llaman la atencion](https://www.youtube.com/watch?v=TAR94f-Knnk&pp=ygUZU29uaWRvIGRlIG1vbmVkYSBjYWxsZW5kbw%3D%3D)
+<https://www.youtube.com/watch?v=TAR94f-Knnk&pp=ygUZU29uaWRvIGRlIG1vbmVkYSBjYWxsZW5kbw%3D%3D>
+
+![SISTEMAS OPERATIVOS](https://imecaf.com/blog/2024/06/07/sistemas-operativos/ "Sistemas GOOD")
 
 <!--
 **up250496grgg/up250496grgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
