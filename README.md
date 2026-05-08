@@ -2,7 +2,7 @@ Hi there 👋
 [Sonidos que llaman la atencion](https://www.youtube.com/watch?v=TAR94f-Knnk&pp=ygUZU29uaWRvIGRlIG1vbmVkYSBjYWxsZW5kbw%3D%3D)
 <https://www.youtube.com/watch?v=TAR94f-Knnk&pp=ygUZU29uaWRvIGRlIG1vbmVkYSBjYWxsZW5kbw%3D%3D>
 
-![SISTEMAS OPERATIVOS](https://www.google.com/imgres?q=sistemas%20operativos&imgurl=https%3A%2F%2Fwww.ymant.com%2Fwp-content%2Fuploads%2F2017%2F01%2Fsistemas-operativos-YMANT.png.webp&imgrefurl=https%3A%2F%2Fwww.ymant.com%2Fblog%2Fsistemas-operativos-i%2F&docid=tNZiLqd-TcE9RM&tbnid=ZiWPofo_aVh74M&vet=12ahUKEwizpamT9KmUAxUqJ0QIHRjACb0QnPAOegQIKBAB..i&w=848&h=400&hcb=2&ved=2ahUKEwizpamT9KmUAxUqJ0QIHRjACb0QnPAOegQIKBAB)
+![SISTEMAS OPERATIVOS](https://www.facebook.com/upolitecnicaags/)
 
 <!--
 **up250496grgg/up250496grgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
