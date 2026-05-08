@@ -1,6 +1,5 @@
 Hi there 👋
 [Sonidos que llaman la atencion]
-(https://www.youtube.com/watch?v=TAR94f-Knnk&pp=ygUZU29uaWRvIGRlIG1vbmVkYSBjYWxsZW5kbw%3D%3D)
 <https://www.youtube.com/watch?v=TAR94f-Knnk&pp=ygUZU29uaWRvIGRlIG1vbmVkYSBjYWxsZW5kbw%3D%3D>
 
 ![SISTEMAS OPERATIVOS]
